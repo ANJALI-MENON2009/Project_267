@@ -1,0 +1,37 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+}
+/* input[type=file] {
+    display:inline-block;
+    } */
+img {
+    width:70%;
+    }
+#main{
+    font-weight: bold;
+    color: red;
+    font-family: "Sofia", sans-serif;
+}
+/* hr{
+    border: 5px solid black;
+    border-radius: 5px;
+    } */
+
+#title {
+    font-family: 'Lobster Two', cursive;
+    color: rgb(255, 255, 255);
+}    
+
+#input1 {
+    width:380px;
+    height:70px;
+    background-color: crimson;
+}
+
+#submit_btn {
+    background-color: darkviolet;
+    height: 35px;
+    margin-bottom: 15px;
+}
